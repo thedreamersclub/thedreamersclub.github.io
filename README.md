@@ -1,3 +1,5 @@
 # thedreamersclub.github.io
 
-This repository contains the actual hosted code for the website.
+All content and data on this site is © The Dreamers' Club 2018.
+
+Access to this through GitHub is for _viewing only_.
