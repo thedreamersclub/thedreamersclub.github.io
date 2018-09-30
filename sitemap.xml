@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://thedreamersclub.github.io/posts/hello-world/</loc>
+    <lastmod>2018-09-23T18:43:18+12:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://thedreamersclub.github.io/about/</loc>
     <lastmod>2018-05-22T16:28:00+12:00</lastmod>
   </url>
@@ -13,12 +18,19 @@
   </url>
   
   <url>
+    <loc>https://thedreamersclub.github.io/posts/</loc>
+    <lastmod>2018-09-23T18:43:18+12:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://thedreamersclub.github.io/tags/</loc>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://thedreamersclub.github.io/</loc>
+    <lastmod>2018-09-23T18:43:18+12:00</lastmod>
     <priority>0</priority>
   </url>
   
